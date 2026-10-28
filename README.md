@@ -6,7 +6,7 @@ This repository contains experimental data supporting the manuscript:
 
 **Authors:** Jiří Novák, Jan Holub, Jakub Turinský, Martin Blaha
 
-**Journal:** Applied Acoustics (Elsevier) – manuscript under preparation/submission.
+**Journal:** Applied Acoustics (Elsevier) – manuscript submitted for publication.
 
 ## Experimental overview
 
